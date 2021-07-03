@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.121
+
+### Patch Changes
+
+- 939188e: Use UTF-8 encoding for JSON endpoint responses by default
+
 ## 1.0.0-next.120
 
 ### Minor Changes
